@@ -18,6 +18,13 @@ When the game starts:
 
 The story is made up of small pieces of logic (functions and print statements) that are connected together.
 
+### Run the game
+To play the game, just execute the run file:
+
+```python
+python run.py
+```
+
 ---
 
 ## Your mission
